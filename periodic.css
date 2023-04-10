@@ -1,0 +1,71 @@
+body{
+    font-family: inter, monospace;
+}
+
+header {
+    text-align: center;
+}
+
+.table1 {
+    /* border: 2px solid black; */
+    padding: 8px;
+    border-spacing: 0;
+}
+
+.table2 {
+    /* border: 1px solid black; */
+    margin-left: 90px;
+    padding: 0px;
+    border-spacing: 0;
+}
+
+td {
+    /* border-style: none; */
+    border: 1px solid rgb(64, 10, 212);
+    padding: 2px;
+    height: 50px;
+    width: 50px;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+
+#lanthanoid td {
+    
+    background-color: rgb(142, 241, 112);
+
+}
+
+#actinoid td {
+    
+    background-color: rgb(159, 201, 238);
+}
+
+.trm{
+    background-color: rgb(218, 153, 218);
+}
+
+.aem{
+    background-color: rgb(181, 250, 125);
+}
+
+.am{
+    background-color: rgb(232, 233, 161);
+}
+.h{
+    background-color: rgb(89, 214, 137);
+}
+.om{
+    background-color: rgb(236, 161, 161);
+}
+.onm{
+    background-color: rgb(212, 107, 58);
+}
+.ng{
+    background-color: aliceblue;
+}
+.re{
+    background-color: rgb(142, 241, 112);
+}
+.act{
+    background-color: rgb(159, 201, 238);
+}
